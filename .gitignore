@@ -1,0 +1,15 @@
+# Data and trained models (too large / third-party licensed)
+data/*.csv
+models/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

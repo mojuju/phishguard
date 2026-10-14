@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="380" font-family="Segoe UI, Arial, sans-serif">
+<rect width="420" height="380" fill="#ffffff"/>
+<text x="250" y="30" text-anchor="middle" font-size="16" font-weight="600" fill="#1f2937">Confusion matrix (test set)</text>
+<text x="250" y="60" text-anchor="middle" font-size="13" fill="#4b5563">Predicted</text>
+<text x="30" y="210" text-anchor="middle" font-size="13" fill="#4b5563" transform="rotate(-90 30 210)">Actual</text>
+<text x="185" y="85" text-anchor="middle" font-size="13" fill="#374151">Safe</text>
+<text x="105" y="155" text-anchor="end" font-size="13" fill="#374151">Safe</text>
+<text x="315" y="85" text-anchor="middle" font-size="13" fill="#374151">Phishing</text>
+<text x="105" y="285" text-anchor="end" font-size="13" fill="#374151">Phishing</text>
+<rect x="120" y="95" width="126" height="126" rx="8" fill="rgba(37,99,235,1.00)"/>
+<text x="183" y="165" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">2,172</text>
+<rect x="250" y="95" width="126" height="126" rx="8" fill="rgba(220,38,38,0.16)"/>
+<text x="313" y="165" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">23</text>
+<rect x="120" y="225" width="126" height="126" rx="8" fill="rgba(220,38,38,0.18)"/>
+<text x="183" y="295" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">79</text>
+<rect x="250" y="225" width="126" height="126" rx="8" fill="rgba(37,99,235,0.63)"/>
+<text x="313" y="295" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">1,229</text>
+</svg>

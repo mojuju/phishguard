@@ -1,0 +1,3 @@
+# PhishGuard runs on the Python standard library only (Python 3.10+).
+# The packages below are optional, for development:
+pytest>=7.0
